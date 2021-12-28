@@ -1,2 +1,2 @@
 # Erdos-Renyi
-replicating from Think Complexity by Allen B. Downey
+working from Think Complexity by Allen B. Downey
